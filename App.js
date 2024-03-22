@@ -5,10 +5,8 @@ export default class App extends React.Component {
   render() {
     return (
       <SafeAreaView style={styles.container}>
-        <Text style={styles.h1}>Hello CodeSandbox</Text>
-        <Text style={styles.h2}>
-          Start editing to see some magic happen, even on your mobile device!
-        </Text>
+        <Text style={styles.h1}>Pimp Time</Text>
+        <Text style={styles.h2}>To My Thots Who Tryna Pay Me To Fuck</Text>
         <br />
         <br />
         <Text style={styles.paragraph}>
