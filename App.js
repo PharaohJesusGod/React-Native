@@ -6,7 +6,7 @@ export default class App extends React.Component {
     return (
       <SafeAreaView style={styles.container}>
         <Text style={styles.h1}>Pimp Time</Text>
-        <Text style={styles.h2}>To My Thots Who Tryna Pay Me To Fuck</Text>
+        <Text style={styles.h2}>To My Thots Who Tryna Pay Me To Fuck,</Text>
         <br />
         <br />
         <Text style={styles.paragraph}>
